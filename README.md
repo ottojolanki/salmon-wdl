@@ -1,1 +1,1 @@
-# salmon-wdl
+# sailfish-wdl
