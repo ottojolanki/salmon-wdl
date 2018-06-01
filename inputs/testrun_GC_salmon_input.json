@@ -1,0 +1,11 @@
+{
+    "salmon_quant.index_archive": "gs://sailfish-runs/indexes/sailfish_gencodeV24_k31_ambion1spikes.tgz",
+    "salmon_quant.index_archive_dirname": "sailfish_gencodeV24_k31_ambion1spikes",
+    "salmon_quant.ncpu": 4,
+    "salmon_quant.lib_type": "ISR",
+    "salmon_quant.reads_1": "gs://sailfish-runs/input-files/ENCSR142YZV-chr19/ENCSR142YZV_rep1_1_star_genome_correct_sort_chr19only_R1.fastq.gz",
+    "salmon_quant.reads_2": "gs://sailfish-runs/input-files/ENCSR142YZV-chr19/ENCSR142YZV_rep1_1_star_genome_correct_sort_chr19only_R2.fastq.gz",
+    "salmon_quant.out_dir": "ISR_out",
+    "salmon_quant.memGB": 16,
+    "salmon_quant.salmon_disks": "local-disk 120 HDD"
+}

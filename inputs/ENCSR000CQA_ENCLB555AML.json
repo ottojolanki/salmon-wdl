@@ -1,0 +1,11 @@
+{
+    "salmon_quant.index_archive": "gs://salmon-runs/indexes/salmon_gencodeV24_k31_nist14spikes.tgz",
+    "salmon_quant.index_archive_dirname": "salmon_gencodeV24_k31_nist14spikes",
+    "salmon_quant.ncpu": 16,
+    "salmon_quant.lib_type": "ISR",
+    "salmon_quant.reads_1": "gs://sailfish-runs/input-files/ENCSR000CQA/ENCLB555AML/ENCFF000HLP_R1.fastq",
+    "salmon_quant.reads_2": "gs://sailfish-runs/input-files/ENCSR000CQA/ENCLB555AML/ENCFF000HMD_R2.fastq",
+    "salmon_quant.out_dir": "ISR_out",
+    "salmon_quant.memGB": 60,
+    "salmon_quant.salmon_disks": "local-disk 200 SSD"
+}
